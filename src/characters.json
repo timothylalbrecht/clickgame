@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Fight",
+      "image": "./images/fight.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "Hug",
+      "image": "./images/hug.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "Laugh",
+      "image": "./images/laugh.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "Log",
+      "image": "./images/log.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "Pose",
+      "image": "./images/pose.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "Pounce",
+      "image": "./images/pounce.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "Scratch",
+      "image": "./images/scratch.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "Sleep",
+      "image": "./images/sleep.png",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "Tree",
+      "image": "./images/tree.png",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "Wagon",
+      "image": "./images/wagon.png",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "Walk",
+      "image": "./images/walk.png",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "Zombie",
+      "image": "./images/zombie.png",
+      "clicked": false
+    }
+  ]
